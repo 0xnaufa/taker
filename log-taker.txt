@@ -632,3 +632,15 @@
 2/23/2025 | 4:23:25 PM | INFO | Trying to check user miner status... 
 2/23/2025 | 4:23:26 PM | INFO | Last mining time: 2/22/2025, 8:20:42 PM
 2/23/2025 | 4:23:26 PM | WARN | Mining already started, next mining time is: 2/23/2025, 8:20:42 PM
+2/23/2025 | 8:21:09 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/23/2025 | 8:21:09 PM | INFO | Start process for wallet 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01 
+2/23/2025 | 8:21:09 PM | INFO | Trying To Login for wallet: 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01 
+2/23/2025 | 8:21:10 PM | INFO | Login successful... 
+2/23/2025 | 8:21:10 PM | INFO | Trying to check user info... 
+2/23/2025 | 8:21:11 PM | INFO | User ID: 156415088 | Twitter: @naufaroselyn | Total Points: 170680 
+2/23/2025 | 8:21:11 PM | INFO | Trying to check user miner status... 
+2/23/2025 | 8:21:12 PM | INFO | Last mining time: 2/22/2025, 8:20:42 PM
+2/23/2025 | 8:21:12 PM | INFO | Trying to start Mining for wallet: 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01 
+2/23/2025 | 8:21:13 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+2/23/2025 | 8:21:13 PM | INFO | Trying to activate mining on-chain for wallet: 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01 
+2/23/2025 | 8:21:19 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0d7c7a9f1271be788e415dbcc159dd1c6036897855b2d5c3bf59eb1097ea6f78 
